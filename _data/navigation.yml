@@ -1,0 +1,10 @@
+- name: Our Story
+  link: /#ourstory
+- name: Celebrations
+  link: /celebrations
+- name: Details
+  link: /details
+- name: Registry
+  link: /registry
+- name: RSVP
+  link: /rsvp

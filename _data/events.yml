@@ -1,0 +1,35 @@
+- name: Wedding Ceremony
+  main_event: true
+  date: 2025-09-13 16:30:00 −04:00
+  endDate: 2025-09-13 17:00:00 -04:00
+  attire: Cocktail attire
+  description: Be with us in the special moment we tie the knot! Please arrive at least 10 minutes prior to the start of the ceremony in order to find your seat. There will be a parking attendant on site to direct you.
+  transportation:
+  shuttle:
+  location_name: Keeler Tavern Museum & History Center
+  location:
+    address: 152 Main St.
+    city: Ridgefield
+    state: CT
+    long_state: Connecticut
+    zip: 06877
+    coordinates: 41.2736085,-73.4968639
+    google_maps_url: https://www.google.com/maps/place/Keeler+Tavern+Museum+%26+History+Center/@41.2736085,-73.4968639,16z/data=!4m6!3m5!1s0x89c2a989b0d4014f:0xd690e931672da9e6!8m2!3d41.2736085!4d-73.4968639!16zL20vMGZsaHFi
+    venue_name:
+  calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Ellen or George
+
+- name: Cocktail Hour & Reception
+  date: 2025-09-13 17:00:00 −04:00
+  endDate: 2025-09-13 22:00:00 -04:00
+  attire: Cocktail attire
+  description: The wedding reception is at the same venue as the ceremony and will commence directly after the ceremony ends. Venue staff will direct you to the reception space. Dinner will be provided and begin at 6PM. Please complete the RSVP with your menu selection and any dietary restrictions.
+  location_name: Keeler Tavern Museum & History Center
+  location:
+    address: 152 Main St.
+    city: Ridgefield
+    state: CT
+    long_state: Connecticut
+    zip: 06877
+    coordinates: 41.2736085,-73.4968639
+    google_maps_url: https://www.google.com/maps/place/Keeler+Tavern+Museum+%26+History+Center/@41.2736085,-73.4968639,16z/data=!4m6!3m5!1s0x89c2a989b0d4014f:0xd690e931672da9e6!8m2!3d41.2736085!4d-73.4968639!16zL20vMGZsaHFi
+    venue_name:
